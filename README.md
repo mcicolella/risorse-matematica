@@ -12,8 +12,9 @@
 * [Matematica per Conoscere e per Sapere](http://macosa.dima.unige.it/proge.htm) - Nucleo di Ricerca Didattica MaCoSa
 
 
-## Siti
+## Siti e Blog
 
 * [Esercizi di Matematica](https://www.esercizimatematica.com)
 * [Matematica e scuola](http://www.matematicaescuola.it)
 * [Matematika](http://www.matematika.it/)
+* [Math is in the air (Blog divulgativo sulla matematica applicata)](http://www.mathisintheair.com/eng/)
