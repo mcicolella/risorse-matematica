@@ -14,6 +14,7 @@
 
 ## Siti e Blog
 
+* [BASE Cinque - Appunti di Matematica Ricreativa](http://utenti.quipo.it/base5/index.htm)
 * [Esercizi di Matematica](https://www.esercizimatematica.com)
 * [Matematica e scuola](http://www.matematicaescuola.it)
 * [Matematika](http://www.matematika.it/)
