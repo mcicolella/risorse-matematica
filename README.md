@@ -15,11 +15,15 @@
 ## Siti e Blog
 
 * [BASE Cinque - Appunti di Matematica Ricreativa](http://utenti.quipo.it/base5/index.htm)
-* [Esercizi di Matematica](https://www.esercizimatematica.com)
+* [Esercizi di Matematica](https://www.esercizimatematica.com
+* [MaddMaths! MAtematica Divulgazione Didattica](http://maddmaths.simai.eu/)
 * [Matematica e scuola](http://www.matematicaescuola.it)
 * [Matematika](http://www.matematika.it/)
 * [Math is in the air (Blog divulgativo sulla matematica applicata)](http://www.mathisintheair.com/eng/)
 
 ## Videolezioni
 
+* [2+2=? - Corso zero di matematica](http://www.zammumultimedia.it/mooc/matematica-corso-zero.htm) - Proff. A. Ragusa e S. Giuffrida (zammù multimedia - Università di Catania) 
+* [2+2=? - Passiamo agli esercizi](http://www.zammumultimedia.it/mooc/22-passiamo-agli-esercizi.htm) - Prof. A. Ragusa (zammù multimedia - Università di Catania) 
+* [Algebra Lineare e Geometria](https://www.youtube.com/playlist?list=PLhEwqlL10MqMSHePf3Kn4T8AaR0ItUUer&disable_polymer=true) - Prof. F. Bottacin (Università di Padova)
 
