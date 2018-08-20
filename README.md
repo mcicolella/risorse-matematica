@@ -15,7 +15,7 @@
 ## Siti e Blog
 
 * [BASE Cinque - Appunti di Matematica Ricreativa](http://utenti.quipo.it/base5/index.htm)
-* [Esercizi di Matematica](https://www.esercizimatematica.com
+* [Esercizi di Matematica](https://www.esercizimatematica.com)
 * [MaddMaths! MAtematica Divulgazione Didattica](http://maddmaths.simai.eu/)
 * [Matematica e scuola](http://www.matematicaescuola.it)
 * [Matematika](http://www.matematika.it/)
