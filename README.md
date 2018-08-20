@@ -25,5 +25,11 @@
 
 * [2+2=? - Corso zero di matematica](http://www.zammumultimedia.it/mooc/matematica-corso-zero.htm) - Proff. A. Ragusa e S. Giuffrida (zammù multimedia - Università di Catania) 
 * [2+2=? - Passiamo agli esercizi](http://www.zammumultimedia.it/mooc/22-passiamo-agli-esercizi.htm) - Prof. A. Ragusa (zammù multimedia - Università di Catania) 
+* [Algebra Lineare](http://pagine.dm.unipi.it/gobbino/Home_Page/AD_AL_15.html) - Prof. M. Gobbino (Università di Pisa)
 * [Algebra Lineare e Geometria](https://www.youtube.com/playlist?list=PLhEwqlL10MqMSHePf3Kn4T8AaR0ItUUer&disable_polymer=true) - Prof. F. Bottacin (Università di Padova)
-
+* [Analisi Matematica 1](https://www.youtube.com/playlist?list=PLAQopGWlIcyZlCmXWE_KvtMi57Mwbyf6C) - Prof. Camilli (Università La Sapienza Roma)
+* [Analisi Matematica 1](http://pagine.dm.unipi.it/gobbino/Home_Page/AD_AM1_17.html) - Prof. M. Gobbino (Università di Pisa)
+* [Analisi Matematica 2](http://pagine.dm.unipi.it/gobbino/Home_Page/AD_AM2_18.html) - Prof. M. Gobbino (Università di Pisa)
+* [Geometria](http://didatticaweb.uniroma2.it/files/index/insegnamento/141515-Geometria) - Prof. V. Di Gennaro (Università di Roma tor Vergata) - N.B. I video in formato mp4 sono zippati
+* [Precorsi](http://pagine.dm.unipi.it/gobbino/Home_Page/ArchivioDidattico.html) - Prof. M. Gobbino (Università di Pisa)
+* [Statistica](https://www.youtube.com/playlist?list=PLAQopGWlIcyYS5uAXk6M6lD2uXW2_dnCG) - Prof. M. Perone Pacifico (Università La Sapienza Roma)
