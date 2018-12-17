@@ -31,6 +31,7 @@
 * [Analisi Matematica 1](https://www.youtube.com/playlist?list=PLAQopGWlIcyZlCmXWE_KvtMi57Mwbyf6C) - Prof. Camilli (Università La Sapienza Roma)
 * [Analisi Matematica 1](http://pagine.dm.unipi.it/gobbino/Home_Page/AD_AM1_17.html) - Prof. M. Gobbino (Università di Pisa)
 * [Analisi Matematica 2](http://pagine.dm.unipi.it/gobbino/Home_Page/AD_AM2_18.html) - Prof. M. Gobbino (Università di Pisa)
+* [Corso Base Olimpiadi della Matematica](http://www.problemisvolti.it/CorsoBaseOlimpiadiMatematica.html) - Prof. E. Callegari (Università di Roma 2)
 * [Geometria](http://didatticaweb.uniroma2.it/files/index/insegnamento/141515-Geometria) - Prof. V. Di Gennaro (Università di Roma tor Vergata) - N.B. I video in formato mp4 sono zippati
 * [Il canale didattico dell'ing. Cerroni](https://www.youtube.com/user/MarcelloDarioCerroni) - Ing. M.D. Cerroni
 * [Matematica per le scuole superiori](https://www.youtube.com/channel/UCm-J0HUR8ULtZiaQ_H320Zg) - Prof. M. Antonuzzi
