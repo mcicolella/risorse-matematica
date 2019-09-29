@@ -33,6 +33,7 @@
 * [Analisi Matematica 1](http://pagine.dm.unipi.it/gobbino/Home_Page/AD_AM1_17.html) - Prof. M. Gobbino (Università di Pisa)
 * [Analisi Matematica 2](http://pagine.dm.unipi.it/gobbino/Home_Page/AD_AM2_18.html) - Prof. M. Gobbino (Università di Pisa)
 * [Analisi Matematica II](https://www.youtube.com/channel/UC--F9uvQfk_rooC98O5zFyQ/playlists) - Prof. A. Corbo (Università degli Studi di Cassino e del Lazio Meridionale)
+* [Analisi Matematica III](https://www.youtube.com/playlist?list=PLUL1bzfXcbX1yr0Cod7crygyn8IU-FhCv) - Prof. A. Gaudiello (Università degli Studi di Cassino e del Lazio Meridionale)
 * [Corso Base Olimpiadi della Matematica](http://www.problemisvolti.it/CorsoBaseOlimpiadiMatematica.html) - Prof. E. Callegari (Università di Roma 2)
 * [GeoMat Matematica & Geometria](http://www.brigantaggio.net/bosco/video/indice.htm) - Prof. Fioravante Bosco
 * [Geometria](http://didatticaweb.uniroma2.it/files/index/insegnamento/141515-Geometria) - Prof. V. Di Gennaro (Università di Roma tor Vergata) - N.B. I video in formato mp4 sono zippati
