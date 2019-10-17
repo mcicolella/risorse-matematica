@@ -39,6 +39,7 @@
 * [Geometria](http://didatticaweb.uniroma2.it/files/index/insegnamento/141515-Geometria) - Prof. V. Di Gennaro (Università di Roma tor Vergata) - N.B. I video in formato mp4 sono zippati
 * [Il canale didattico dell'ing. Cerroni](https://www.youtube.com/user/MarcelloDarioCerroni) - Ing. M.D. Cerroni
 * [Matematica per le scuole superiori](https://www.youtube.com/channel/UCm-J0HUR8ULtZiaQ_H320Zg) - Prof. M. Antonuzzi
+* [Metodi Matematici per l'Ingegneria](https://www.youtube.com/playlist?list=PLUL1bzfXcbX1e89QvI3koNlYSixEqV8xt) - Prof. A. Corbo (Università di Cassino e del Lazio Meridionale)
 * [Precorsi](http://pagine.dm.unipi.it/gobbino/Home_Page/ArchivioDidattico.html) - Prof. M. Gobbino (Università di Pisa)
 * [Precorso Analisi Matematica](https://www.youtube.com/playlist?list=PLUL1bzfXcbX2wOtHZacbmtW1ZGW7_HYJI) - Prof. A. Corbo (Università degli Studi di Cassino e del Lazio Meridionale)
 * [Statistica](https://www.youtube.com/playlist?list=PLAQopGWlIcyYS5uAXk6M6lD2uXW2_dnCG) - Prof. M. Perone Pacifico (Università La Sapienza Roma)
